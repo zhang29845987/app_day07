@@ -1,0 +1,51 @@
+#"name": "张鹏博"
+
+
+#"values": 李小风
+#"values12": {"name": "小黑"}
+#
+#'values':
+#"values1": 张三
+#'values2': 李四
+
+#-----数组------
+#values4:
+##  - 1
+##  - 2
+##  - 3
+##  - 4
+
+#values : [1,2,4,3]
+
+#values :
+#  - name: "小王"
+#    age: 18
+#
+#  - name: 小李
+#    age: 20
+
+#------纯量-------
+#values: true #yaml布尔类型
+#values1: false
+
+#values: True #python布尔类型
+#values1: False
+
+#values: 123.456879
+#values1: 123
+
+#空
+#value13: ~
+#value14:
+#value15: none
+#value16: null
+#value17: Null
+value17: None
+
+#日期
+#value18: 2020-11-11 12:12:12
+#value19: 12:12:12
+#value19: 2020-11-11
+#value19: 2020-01-01
+value19: 2020-01-01 02:02:22
+

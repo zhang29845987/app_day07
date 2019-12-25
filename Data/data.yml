@@ -1,0 +1,16 @@
+aa: &data
+  name: 张鹏博
+  age: 18
+
+
+data:
+  <<: *data
+  ass: "哈尔滨"
+
+datas:
+  <<: *data
+  ass: "哈尔滨"
+
+data1:
+  <<: *data
+  ass: "哈尔滨"
